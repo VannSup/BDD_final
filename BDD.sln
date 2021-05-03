@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDD", "BDD\BDD.csproj", "{06BB74AC-CBBF-4552-A393-BB932309C9FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProject", "SpecFlowProject\SpecFlowProject.csproj", "{F4CA7F9D-AEB0-4AFE-8C5B-7C9B14322B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BB74AC-CBBF-4552-A393-BB932309C9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BB74AC-CBBF-4552-A393-BB932309C9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BB74AC-CBBF-4552-A393-BB932309C9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BB74AC-CBBF-4552-A393-BB932309C9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4CA7F9D-AEB0-4AFE-8C5B-7C9B14322B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CA7F9D-AEB0-4AFE-8C5B-7C9B14322B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CA7F9D-AEB0-4AFE-8C5B-7C9B14322B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CA7F9D-AEB0-4AFE-8C5B-7C9B14322B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE95C4A-5A50-42CE-BFE2-4C9F609320E1}
+	EndGlobalSection
+EndGlobal
